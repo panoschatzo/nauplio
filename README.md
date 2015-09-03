@@ -1,2 +1,0 @@
-# nauplio
-first website development
